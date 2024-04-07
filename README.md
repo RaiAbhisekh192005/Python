@@ -1,7 +1,7 @@
 # Repository Name: Python
 
 ## Description
-This repository hosts a collection of Python scripts and projects developed by [Your Name] for various purposes, ranging from small utilities to larger applications. It serves as a showcase of my Python programming skills and interests, covering a wide range of topics within the Python ecosystem.
+This repository hosts a collection of Python scripts and projects developed by Abhishek Kumar Rai for various purposes, ranging from small utilities to larger applications. It serves as a showcase of my Python programming skills and interests, covering a wide range of topics within the Python ecosystem.
 
 ## Key Features
 - **Diverse Projects**: Explore a variety of Python projects, including web development, data analysis, automation scripts, and more.
