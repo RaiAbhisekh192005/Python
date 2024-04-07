@@ -12,7 +12,7 @@ This repository hosts a collection of Python scripts and projects developed by [
 
 
 ## Usage
-1. **Clone the Repository**: `git clone `
+1. **Clone the Repository**: `git clone https://github.com/RaiAbhisekh192005/Python.git `
 2. **Navigate to Project Directory**: `cd your_repository`
 3. **Explore Projects**: Browse through the project directories and choose the one you're interested in.
 4. **Run Scripts or Install Dependencies**: Follow the instructions provided in each project's README file to run scripts or install necessary dependencies.
